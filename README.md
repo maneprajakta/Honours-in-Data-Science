@@ -11,3 +11,7 @@ UNITS
 
 ASSIGNMENTS
 
+``` diff
+@@ Data mining turns a large collection of data into knowledge @@
+
+
