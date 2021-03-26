@@ -151,10 +151,5 @@ ToDo List:
     
 5. Advanced (assignment 2): Fit a model like LogisticRegression and RandomForestRegressor using sklearn.
 
-6. Send your doubts to shreedhar.kodate.ta@gmail.com with email subject line of the format DYPCOE_DSHC_{firstName_lastName}_{snake_case_short_title}
 
----------------------
 
-[top](#assignment-1-titanic-data-preprocessing)
-
----------------------
