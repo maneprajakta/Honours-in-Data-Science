@@ -3,8 +3,8 @@
 #### SEMESTER 1 
 
 ASSIGNMENTS
-1. [Titanic Preprocessig](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/1.Titanic_Preprocessig)
-2. [Titanic Survival Prediction]()
+1. [Titanic Preprocessing](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/1.Titanic_Preprocessig)
+2. [Titanic Survival Prediction](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/2.Titanic_Survival_Prediction)
 3. [Ablone Age Prediction](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/3.Ablone_Age_Prediction)
 4. [Netflix Movies and TV Shows](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/4.Netflix%20Movies%20and%20TV%20Shows)
 
