@@ -17,5 +17,10 @@ UNITS
 6. [Data visualization of multidimensional data](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit6)
 
 
+----------------------------
+Thanks for visiting :)<br>
+![ok](https://user-images.githubusercontent.com/57425995/112577192-e7d8be00-8e19-11eb-90b1-0e4f32d29f4d.jpg)
+
+
 
 
