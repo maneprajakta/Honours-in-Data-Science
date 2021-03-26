@@ -1,17 +1,21 @@
 # Honours-in-Data-Science
 
 #### SEMESTER 1 
-UNITS
-<br>1.[Introduction to Data Science](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit1)
-<br>2.[Statistics and Probability basics for Data Analysis](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit2)
-<br>3.[Data Analysis in depth](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit3)
-<br>4.[Advanced Data Analysis Means](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit4)
-<br>5.[Basics of Data Visualization](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit5)
-<br>6.[Data visualization of multidimensional data](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit6)
 
 ASSIGNMENTS
+1. [Titanic_Preprocessig](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/1.Titanic_Preprocessig)
+2. [Titanic_Survival_Prediction]()
+3. [Ablone_Age_Prediction](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/3.Ablone_Age_Prediction)
+4. [Netflix Movies and TV Shows](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Assignments/4.Netflix%20Movies%20and%20TV%20Shows)
 
-``` diff
-@@ Data mining turns a large collection of data into knowledge @@
+UNITS
+1. [Introduction to Data Science](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit1)
+2. [Statistics and Probability basics for Data Analysis](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit2)
+3. [Data Analysis in depth](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit3)
+4. [Advanced Data Analysis Means](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit4)
+5. [Basics of Data Visualization](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit5)
+6. [Data visualization of multidimensional data](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit6)
+
+
 
 
