@@ -1,4 +1,7 @@
 
 ## Data Analysis in depth
 
-Will be adding refrences for topics
+2. Classification- 
+- [Overview]()
+- [Naïve Bayes classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
+- [NB SKLEARN][https://scikit-learn.org/stable/modules/naive_bayes.html]
