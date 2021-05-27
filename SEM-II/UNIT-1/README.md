@@ -7,6 +7,6 @@ Mode, Mid-range, Measures of Dispersion: Range, Variance, Mean Deviation, Standa
 One sample hypothesis testing, Hypothesis, Testing of Hypothesis, Chi-Square Tests, t-test, ANOVA
 and ANOCOVA. Pearson Correlation, Bi-variate regression, Multi-variate regression, Chi-square
 statistics.
-#Exemplar/CaseStudies :<br>
+<br>Exemplar/CaseStudies :<br>
 For a payroll dataset create Measure of central tenancy and its measure of
 dispersion for statistical analysis of given data.
