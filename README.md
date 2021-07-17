@@ -16,6 +16,8 @@ UNITS
 5. [Basics of Data Visualization](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit5)
 6. [Data visualization of multidimensional data](https://github.com/maneprajakta/Honours-in-Data-Science/tree/main/SEM1/Unit6)
 
+#### SEMESTER 2
+[Presentations](https://mitu.co.in/statistics-and-machine-learning-sppu/)
 
 ----------------------------
 Thanks for visiting :) you can star repo now 🌠<br>
